@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_lefteye_2splits.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/lbpcascade_frontalface.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalcatface.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalcatface.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_eye.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_eye.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_licence_plate_rus_16stages.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_licence_plate_rus_16stages.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_upperbody.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_upperbody.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_fullbody.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_fullbody.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/lbpcascade_frontalcatface.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/lbpcascade_frontalcatface.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/lbpcascade_silverware.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/lbpcascade_silverware.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalcatface_extended.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalcatface_extended.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalface_alt.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalface_alt.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_profileface.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_profileface.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_righteye_2splits.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_righteye_2splits.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_russian_plate_number.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_russian_plate_number.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalface_alt2.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalface_alt2.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalface_alt_tree.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalface_alt_tree.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_smile.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_smile.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_frontalface_default.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_frontalface_default.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_eye_tree_eyeglasses.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_eye_tree_eyeglasses.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/haarcascade_lowerbody.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/haarcascade_lowerbody.xml"
+    },
+    {
+        "merged": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/raw/lbpcascade_profileface.xml",
+        "source": "/home/think-hxr/AndroidProject/FaceDetection/openCVLibrary320/build/intermediates/bundles/debug/res/raw/lbpcascade_profileface.xml"
+    }
+]
